@@ -1,6 +1,6 @@
 # Weather_App
 
-Welcome to the Weather App! This web application allows users to retrieve current weather information for a specific city using the OpenWeatherMap API. The app provides details such as temperature, humidity, wind speed, and weather description, along with an icon representing the weather condition.
+This web application allows users to retrieve current weather information for a specific city using the OpenWeatherMap API. The app provides details such as temperature, humidity, wind speed, and weather description, along with an icon representing the weather condition.
 
 ## Technologies Used
 
