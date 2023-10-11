@@ -19,7 +19,9 @@ This web application allows users to retrieve current weather information for a 
 - Use of weather icons to represent weather conditions.
 - Responsive design for various screen sizes.
 - Loading state indicator during data retrieval.
+  
+<img width="1243" alt="Screenshot 2023-10-11 at 16 56 22" src="https://github.com/ildizsigrai/Weather_App/assets/128381088/a1f8c52b-bd09-4e31-bf4b-870d4ad59c1f">
+<a href="https://ildizs-weatherapp.netlify.app/">Weather App</a>
 
-  https://ildizs-weatherapp.netlify.app/
 
   
