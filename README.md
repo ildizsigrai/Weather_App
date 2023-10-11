@@ -5,7 +5,7 @@ This web application allows users to retrieve current weather information for a 
 ## Technologies Used
 
 - HTML
-- CSS (Cascading Style Sheets)
+- CSS 
 - JavaScript (ES6)
 
 ## APIs
